@@ -1,0 +1,14 @@
+{
+  "name": "substrate-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/palkdot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tallone.ho",
+  "license": "ISC",
+  "dependencies": {
+    "@polkadot/api": "^2.4.1"
+  }
+}
