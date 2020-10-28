@@ -12,3 +12,5 @@
 	 - [https://github.com/NetGodFather/hello-world-by-polkadot/blob/main/private_node.png](https://github.com/NetGodFather/hello-world-by-polkadot/blob/main/private_node.png)
  - [\[BEGINNER CHALLENGE\] Launch A Local Substrate Development Chain](https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/17/100023943)
 	 - https://github.com/NetGodFather/hello-world-by-polkadot/blob/main/Substrate-Front-End-Template.png
+ - [\[BEGINNER CHALLENGE\] Run A Kusama Or Polkadot Node And Add It To Telemetry](https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/12/100023938)
+	 - [https://github.com/NetGodFather/hello-world-by-polkadot/blob/main/Run-A-Polkadot-Node-And-Add-It-To-Telemetry.png](https://github.com/NetGodFather/hello-world-by-polkadot/blob/main/Run-A-Polkadot-Node-And-Add-It-To-Telemetry.png)
